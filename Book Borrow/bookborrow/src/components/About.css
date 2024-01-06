@@ -1,0 +1,206 @@
+body {
+    /* Background color */
+    background-color: #000;
+}
+
+.SRDetails-box {
+       /* Position the box relative to its nearest positioned ancestor */
+   position: relative;
+
+   /* Adjust vertical position (adjust values as needed) */
+   top: 250px; /* Move it down */
+
+   /* Adjust horizontal position (adjust values as needed) */
+   left: 100px; /* Move it to the left */
+  
+    /* Box dimensions and styling (unchanged) */
+    width: 290px;
+    height: 20px;
+
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+  
+
+    letter-spacing: 2px;  /* Increased letter spacing */
+  
+    /* Letter styling (unchanged) */
+    font-size: 13px;
+    font-family: 'Source Serif Pro';
+    color: #FFFFFF;
+  
+    /* Background color with manual transparency */
+    background-color: #15A950;  /* Adjust transparency as needed (0 to 1) */
+
+    /* Letter positioning adjustments */
+    text-indent: 24px;  /* Indent first line */
+    padding-left: 5px;  /* Add left spacing */
+
+    /* Letter positioning adjustments */
+    line-height: 8px;  /* Decreased for upward movement */
+    padding-top: 5px;  /* Reduce top padding */
+    text-transform: uppercase;  /* Convert text to uppercase */
+  }
+
+.SRReservation-box {
+    /* Position the box relative to its nearest positioned ancestor */
+position: relative;
+
+/* Adjust vertical position (adjust values as needed) */
+top: 290px; /* Move it down */
+
+/* Adjust horizontal position (adjust values as needed) */
+left: 100px; /* Move it to the left */
+
+ /* Box dimensions and styling (unchanged) */
+ width: 290px;
+ height: 20px;
+
+ border-radius: 10px;
+ text-align: center;
+ padding: 30px;
+
+
+ letter-spacing: 2px;  /* Increased letter spacing */
+
+ /* Letter styling (unchanged) */
+ font-size: 10px;
+ font-family: 'Source Serif Pro';
+ color: #FFFFFF;
+
+ /* Background color with manual transparency */
+ background-color: #15A950;  /* Adjust transparency as needed (0 to 1) */
+
+ /* Letter positioning adjustments */
+ text-indent: 24px;  /* Indent first line */
+ padding-left: 5px;  /* Add left spacing */
+
+ /* Letter positioning adjustments */
+ line-height: 8px;  /* Decreased for upward movement */
+ padding-top: 5px;  /* Reduce top padding */
+ text-transform: uppercase;  /* Convert text to uppercase */
+}
+
+.Bookdetails-box {
+    /* Position the box relative to its nearest positioned ancestor */
+position: relative;
+
+/* Adjust vertical position (adjust values as needed) */
+top: 320px; /* Move it down */
+
+/* Adjust horizontal position (adjust values as needed) */
+left: 100px; /* Move it to the left */
+
+ /* Box dimensions and styling (unchanged) */
+ width: 290px;
+ height: 20px;
+
+ border-radius: 10px;
+ text-align: center;
+ padding: 30px;
+
+
+ letter-spacing: 2px;  /* Increased letter spacing */
+
+ /* Letter styling (unchanged) */
+ font-size: 10px;
+ font-family: 'Source Serif Pro';
+ color: #FFFFFF;
+
+ /* Background color with manual transparency */
+ background-color: #15A950;  /* Adjust transparency as needed (0 to 1) */
+
+ /* Letter positioning adjustments */
+ text-indent: 24px;  /* Indent first line */
+ padding-left: 5px;  /* Add left spacing */
+
+ /* Letter positioning adjustments */
+ line-height: 8px;  /* Decreased for upward movement */
+ padding-top: 5px;  /* Reduce top padding */
+ text-transform: uppercase;  /* Convert text to uppercase */
+}
+
+.BRdetails-box {
+    /* Position the box relative to its nearest positioned ancestor */
+position: relative;
+
+/* Adjust vertical position (adjust values as needed) */
+top: 360px; /* Move it down */
+
+/* Adjust horizontal position (adjust values as needed) */
+left: 100px; /* Move it to the left */
+
+ /* Box dimensions and styling (unchanged) */
+ width: 290px;
+ height: 20px;
+
+ border-radius: 10px;
+ text-align: center;
+ padding: 30px;
+
+
+ letter-spacing: 2px;  /* Increased letter spacing */
+
+ /* Letter styling (unchanged) */
+ font-size: 10px;
+ font-family: 'Source Serif Pro';
+ color: #FFFFFF;
+
+ /* Background color with manual transparency */
+ background-color: #15A950;  /* Adjust transparency as needed (0 to 1) */
+
+ /* Letter positioning adjustments */
+ text-indent: 24px;  /* Indent first line */
+ padding-left: 5px;  /* Add left spacing */
+
+ /* Letter positioning adjustments */
+ line-height: 8px;  /* Decreased for upward movement */
+ padding-top: 5px;  /* Reduce top padding */
+ text-transform: uppercase;  /* Convert text to uppercase */
+}
+
+table {
+
+    position: relative;
+    top: 30px; /* Move it down */
+    left: 520px; /* Move it to the left */
+
+
+
+    width: 700px; /* Adjust table width as needed */
+    height: 400px;
+    border-collapse: collapse; /* Merge table borders */
+  
+}
+  
+  th, td {
+    padding: 10px; /* Adjust cell padding as needed */
+    text-align: left; /* Align text to the left */
+    border: 2px solid #ddd; /* Add borders */
+  }
+  
+  th {
+    font-weight: bold; /* Make headers bold */
+    background-color: #f2f2f2; /* Add a light background color to headers */
+    
+  }
+  
+
+  .table-container {
+    /* Box Size and Positioning */
+    width: 725px; /* Adjust width as needed */
+    height: 710px; /* Adjust height as needed */
+    margin: 40px auto; /* Center the box horizontally */
+    position: relative; /* Allow for positioning of table within the box */
+  
+    /* Transparent Background with Adjustability */
+    background-color: rgba(255, 255, 255, 0.5); /* White with 80% opacity */
+    border-radius: 10px; /* Add rounded corners */
+    overflow: hidden; /* Hide content that overflows the box */
+    
+    position: absolute;
+    top: 70%;
+    left: 46%;
+    transform: translate(-50%, -50%);
+
+}
