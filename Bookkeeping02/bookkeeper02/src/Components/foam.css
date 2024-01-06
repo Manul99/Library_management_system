@@ -1,0 +1,407 @@
+.form-box {
+    height: 453px;
+    width: 673px;
+    color: #15a950;
+font-family: "Source Serif Pro-Bold", Helvetica;
+font-size: 24px;
+font-weight: 700;
+left: 0;
+letter-spacing: 0;
+line-height: normal;
+position: fixed;
+top: 0;
+}
+
+.form-rectangle{
+    background-color: #faf3f3c6;
+    border-radius: 10px;
+    height: 600px;
+    left: 400px;
+    mix-blend-mode: difference;
+    position: relative;
+    top: 268px;
+    width: 1000px;
+}
+.text-U{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -200px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 120px;
+
+}
+.text-V{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -205px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 160px;
+
+}
+.text-W{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -195px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 200px;
+
+}
+
+.text-X{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -190px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 250px;
+
+}
+.text-Y{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -190px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 290px;
+}
+.text-Z{
+    font-size: 16px;
+    color: rgb(31, 30, 30);
+    position: relative;
+    left: -200px;
+    font-family: source serif pro;
+    font-weight: bold;
+    top: 330px;
+}
+  
+
+
+.form-text{
+    color: #15a950;
+    font-family: "Source Serif Pro-Bold";
+    mix-blend-mode: normal;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: -110px;
+    }
+
+    
+    .form-box1{
+        height: 37px;
+        width: 269px;
+    }
+    
+    .form-rectangle1 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -350px;
+        position: relative;
+        top: -60px;
+        width: 269px;
+    }
+
+    .form-text1 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -720px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -90px;
+        }
+        
+
+    .form-box2{
+        height: 37px;
+        width: 269px;
+    }
+    
+    .form-rectangle2{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -350px;
+        position: relative;
+        top: -60px;
+        width: 269px;
+    }
+
+    .form-tex2{
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -720px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -90px;
+        }
+    
+    .form-box3{
+        height: 37px;
+        width: 269px;
+    }
+    
+    .form-rectangle3{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -350px;
+        position: relative;
+        top: -60px;
+        width: 269px;
+    }
+
+    .form-text3 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -720px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -90px;
+        }
+
+    .form-box4{
+        height: 37px;
+        width: 269px;
+    }
+    
+    .form-rectangle4 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -350px;
+        position: relative;
+        top: -60px;
+        width: 269px;
+    }
+
+    .form-text4 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -720px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -90px;
+        }
+
+    .form-box5{
+        height: 37px;
+        width: 269px;
+    }
+    .form-rectangle5{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -350px;
+        position: relative;
+        top: -60px;
+        width: 269px;
+}
+    .form-text5{
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -720px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -90px;
+    }
+    span {
+        margin-left: 20px;
+        color: #ffffff;
+        font-size: 24px;
+      }
+      .box-U {
+        height: 17px;
+        width: 377px;
+        }
+        .rectangle-U {
+        background-color: #ffffff;
+        height: 17px;
+        left: 850px;
+        position: fixed;
+        top: 390px;
+        width: 377px;
+        }
+        .box-V {
+            height: 17px;
+            width: 377px;
+            }
+            .recangle-V {
+            background-color: #ffffff;
+            height: 17px;
+            left: 850px;
+            position: fixed;
+            top: 440px;
+            width: 377px;
+            }
+            .box-W {
+                height: 8px;
+                width: 8px;
+                }
+                .ellipse-1 {
+                    background-color: #ffffff;
+                    border-radius: 4px;
+                    height: 8px;
+                    left: 870px;
+                    position: fixed;
+                    top: 510px;
+                    width: 8px;
+                    }
+                    .box-W {
+                        height: 8px;
+                        width: 8px;
+                        }
+                        .ellipse-2 {
+                            background-color: #ffffff;
+                            border-radius: 4px;
+                            height: 8px;
+                            left: 1100px;
+                            position: fixed;
+                            top: 510px;
+                            width: 8px;
+                            }
+                    
+                .box-X{
+                    height: 17px;
+                    width: 377px;
+                    }
+                    .recangle-X {
+                    background-color: #ffffff;
+                    height: 17px;
+                    left: 850px;
+                    position: fixed;
+                    top: 570px;
+                    width: 377px;
+                    }
+                    .box-Y{
+                        height: 17px;
+                        width: 377px;
+                        }
+                        .recangle-Y {
+                        background-color: #ffffff;
+                        height: 17px;
+                        left: 850px;
+                        position: fixed;
+                        top: 630px;
+                        width: 377px;
+                        }
+                        .box-Z{
+                            height: 17px;
+                            width: 377px;
+                            }
+                            .recangle-Z {
+                            background-color: #ffffff;
+                            height: 17px;
+                            left: 850px;
+                            position: fixed;
+                            top:680px;
+                            width: 377px;
+                            }
+
+                            .label {
+                                height: 18px;
+                                width: 32px;
+                                }
+                                .text-M {
+                                color: #070707;
+                                font-family: "Source Serif Pro-Bold";
+                                font-size: 14px;
+                                font-weight: 700;
+                                left: 900px;
+                                letter-spacing: 0;
+                                line-height: normal;
+                                position: fixed;
+                                top: 510px;
+                                }
+                                .label {
+                                    height: 18px;
+                                    width: 32px;
+                                    }
+                                    .text-F {
+                                    color: #070707;
+                                    font-family: "Source Serif Pro-Bold";
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                    left: 1130px;
+                                    letter-spacing: 0;
+                                    line-height: normal;
+                                    position: fixed;
+                                    top: 510px;
+                                    }
+                                    
+                                    .btn {
+                                        display: inline-block; /* Ensure buttons are displayed side-by-side */
+                                        margin-right: 10px; /* Add spacing between buttons */
+                                        padding: 10px 20px; /* Add padding for readability and clickability */
+                                        border: none; /* Remove default borders */
+                                        border-radius: 5px; /* Round corners for a softer look */
+                                        background-color: #00973dd4; /* Set a default background color */
+                                        color: white; /* Set a default text color */
+                                        cursor: pointer; /* Indicate interactivity */
+                                        font-weight: bold; /* Make text bolder for emphasis */
+                                        transition: all 0.2s ease-in-out; /* Add a subtle hover effect */
+                                        font-size: 20px;
+                                        position: relative; /* Enable relative positioning */
+                                      top: 400px; /* Move it 10 pixels down from its original position */
+                                      left: 50px; /* Move it 20 pixels to the right from its original position */
+                                    
+                                      }
+                                      
+                                      /* Hover state for visual feedback */
+                                      .btn:hover {
+                                        background-color: #026a08; /* Darken the background on hover */
+                                      }
+                                      
+                                      /* Specific styling for different button types */
+                                      .btn[type="submit"],
+                                      .btn[type="reset"] { /* Targeting input-based buttons */
+                                        background-color: #00973dd4; /* Differentiate submit/reset buttons */
+                                      }
+                                      
+                                      .btn[type="submit"]:hover,
+                                      .btn[type="reset"]:hover {
+                                        background-color: #057634; /* Hover for submit/reset buttons */
+                                      }
+                                      
+                                      /* Addressing a potential React-Bootstrap styling issue */
+                                      .btn > * { /* Target direct children of buttons */
+                                        margin-bottom: 0; /* Remove extra space below text */
+                                      }
+                                      
+                                      /* Link-specific styles */
+                                      .btn-link {
+                                        background-color: transparent; /* Transparent background */
+                                        border: none; /* Remove border */
+                                        color: #096d36; /* Set link color */
+                                        text-decoration: none; /* Remove underline */
+                                      }
+                                      
+                                      .btn-link:hover {
+                                        text-decoration: underline; /* Add underline on hover */
+                                      }
