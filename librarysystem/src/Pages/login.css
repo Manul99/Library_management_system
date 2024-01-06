@@ -1,0 +1,628 @@
+
+.login-page{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width:100%;
+}
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mobiles{
+    position: absolute;
+    top:-105px;
+    left:-50vh;
+    color: white;
+    font-size: 10px;
+}
+.mails{
+    position: absolute;
+    left:12vh;
+    top:-54vh;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position: relative;
+    top:-15.98vh;
+    left:-53vh;
+
+}
+.mail-image{
+    position: relative;
+    top:-55vh;
+    left:8vh;
+
+}
+
+.login-form{
+    width:40%;
+    height: 25%;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    position: relative;
+    left:32%;
+    top:5%;
+    
+}
+
+.login-heading{
+    font-family: Source Serif Pro;
+    font-size: 40px;
+    position: relative;
+    top:2%;
+    left:40%;
+}
+
+.form {
+    position: relative;
+    left: 4%;
+  }
+  
+  .heading {
+    position: relative;
+    top: 5%;
+    left: 42%;
+  }
+  
+  .form-label {
+    position: relative;
+    top: 15%;
+    left: 40%;
+  }
+  
+  .form-control {
+    position: relative;
+    top: 17%;
+    left: 10%;
+  }
+
+  .btn {
+    position: relative;
+    top: 5%;
+    left: 44%;
+  }
+
+  .footer{
+    position: relative;
+    top:5%;
+  }
+
+  .registers{
+    position: relative;
+    top:8%;
+    left:32%;
+  }
+  .registers{
+    position: relative;
+    top:8%;
+    left:32%;
+  }
+
+  .study-content{
+     width:96%;
+     height: 90vh;
+     background-color: rgba(255, 255, 255, 0.8);
+     position: relative;
+     left:2%;
+     border-top-left-radius: 10px;
+     border-top-right-radius: 10px;
+  }
+
+.reservation{
+   width: 500px;
+   height:100px;
+   background-color: #1F2268;
+   position: relative;
+   top:2%;
+   left:2%;
+
+}
+
+.reservation-heading{
+  color: white;
+  position: relative;
+  top: 20%;
+  left: 2%;
+  font-family: Times New Roman;
+}
+
+.reservation-heading2{
+  color:#FB1E25;
+  position: absolute;
+  top:25%;
+  left:2%;
+  font-family: Times New Roman;
+}
+
+.reservation-list{
+  position: absolute;
+  top:35%;
+  left:1%;
+
+}
+
+.click-here{
+  width: 420px;
+  height:60px;
+  background-color: #3C5A9A;
+  border: 2px solid black;
+  position: relative;
+  top:70%;
+  left: 60%;
+}
+
+.click-heading{
+  font-size: 24px;
+  position: relative;
+  top:15%;
+  left: 5%;
+}
+
+.next{
+  position: relative;
+  top:-4vh;
+  left:70vh;
+}
+
+.reserveroom-heading{
+  position: absolute;
+  left:35%;
+  top:5%;
+  color:#1747AE;
+  font-family: Times New Roman;
+}
+
+.reserveroom-heading2{
+  position: absolute;
+  left:5%;
+  top:15%;
+  font-family: Times New Roman;
+}
+
+.small-image{
+  position: absolute;
+  top:25%;
+  left:8%;
+}
+
+.small-heading{
+  background-color: #1E325D;
+  width:350px;
+  height:50px;
+  position: relative;
+  top:70vh;
+  left:5%;
+}
+.small-heading2{
+  position: relative;
+  top:10%;
+  left:10%;
+  color: white;
+  font-family: Times New Roman;
+}
+
+.study-content1{
+  width:96%;
+  height: 130vh;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: relative;
+  left:2%;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.small-list{
+  position: relative;
+  top:46%;
+  font-size: 20px;
+}
+
+.reserves{
+  position: relative;
+  top:14vh;
+  left: 38%;
+}
+
+.line{
+  position: absolute;
+  width:2px;
+  height:60%;
+  background-color: black;
+  top:30vh;
+  left:70vh;
+}
+
+.large-image{
+  position: absolute;
+  top:25%;
+  left:38%;
+}
+
+.large-heading{
+  background-color: #1E325D;
+  width:350px;
+  height:50px;
+  position: relative;
+  top:63vh;
+  left:38%;
+}
+.large-heading2{
+  position: relative;
+  top:10%;
+  left:10%;
+  color: white;
+  font-family: Times New Roman;
+}
+
+.large-list{
+  position: absolute;
+  top:80vh;
+  font-size: 20px;
+  left:38%;
+}
+
+.reserve1{
+  position: relative;
+  top:98vh;
+  left: 48%;
+}
+
+.line2{
+  position: absolute;
+  width:3px;
+  height:60%;
+  background-color: black;
+  top:30vh;
+  left:140vh;
+}
+
+.tech-image{
+  position: absolute;
+  top:25%;
+  left:74%;
+}
+
+.tech-heading{
+  background-color: #1E325D;
+  width:300px;
+  height:50px;
+  position: relative;
+  top:52vh;
+  left:74%;
+}
+.tech-heading2{
+  position: relative;
+  top:10%;
+  left:10%;
+  color: white;
+  font-family: Times New Roman;
+}
+
+.tech-list{
+  position: absolute;
+  top:82vh;
+  font-size: 20px;
+  left:72%;
+}
+
+.reserve2{
+  position: relative;
+  top:86vh;
+  left: 82%;
+}
+
+/* Kids */
+
+.kids-section{
+  width:96%;
+  height: 140vh;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: relative;
+  left:2%;
+  border-radius: 10px;
+}
+
+.kids-heading1{
+    position: absolute;
+    top:2%;
+    left:45%;
+    font-family:  Source Serif Pro;;
+
+}
+
+.kids1{
+  position: relative;
+  top:3vh;
+  left:15%;
+  border-radius: 5px;
+  width:30vh;
+  height:30%;
+}
+
+.book-content{
+  position: relative;
+  top:2vh;
+  width:180px;
+  height:50px;
+  background:rgba(21, 169, 80, 0.83);  
+  border-radius: 10px;
+
+}
+
+.book-heading1{
+  font-size: 15px;
+  position: relative;
+  top: 2%;
+  left: 10%;
+  color: black;
+  text-decoration: none; /* Remove underline */
+  cursor: pointer; 
+}
+
+/* book page*/
+
+.content2{
+  width:86%;
+  height: 125vh;
+  background-color: rgba(255, 255, 255, 0.8);
+  position: relative;
+  left:7%;
+  border-radius: 10px;
+}
+
+.content2-heading1{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:4%;
+}
+.content2-heading2{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:4%;
+}
+.content2-heading3{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:15%;
+  top:12%;
+}
+
+.author{
+  width:234px;
+  height: 43px;
+  position: relative;
+  top:-5vh;
+  left:4%;
+  background: #a8a7a7;
+  border: 1px solid black;
+  border-radius:10px;
+}
+
+.medium{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:8%;
+  top:1%;
+}
+.medium2{
+  
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:15%;
+  top:-4vh;
+}
+
+.publisher{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position:absolute;
+  left:8%;
+  top:37%;
+  
+}
+
+.publisher2{
+  
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:27vh;
+  top:-4vh;
+}
+
+.year1{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:8%;
+  top:1%;
+  
+}
+
+.year2{
+  
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: relative;
+  left:15%;
+  top:-4vh;
+}
+
+.note{
+  
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  left:8%;
+  top:45%;
+  width:590px;
+  
+}
+
+.keywords-content{
+  width:175px;
+  height: 30px;
+  border-radius: 6px;
+  background: #21FAC6;
+  position: absolute;
+  top:90vh;
+  left:20%;
+}
+
+.keywords{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  left:8%;
+  top:1%;
+}
+
+.keywordss{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  left:8%;
+  top:90vh;
+}
+.subjectss{
+  color: #000;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  left:8%;
+  top:100vh;
+}
+.keywords-content1{
+  width:175px;
+  height: 30px;
+  border-radius: 6px;
+  background: #CA5858;
+  position: absolute;
+  top:100vh;
+  left:20%;
+}
+
+.subject{
+  color: white;
+  font-family: Source Serif Pro;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  left:35%;
+  top:1%;
+}
+/* book borrowing*/
+.book-reserve{
+ width: 275px;
+ height: 56px;
+ border-radius: 6px;
+ border: 1px solid #000;
+ opacity: 0.8;
+ background: #FFF;
+ position: absolute;
+ top:45vh;
+ left:-4vh;
+}
+.book-reserve2{
+  position: absolute;
+  left:18%;
+  font-family: Source Serif Pro;
+  top:10%;
+  font-size: 24px;
+  color: black;
+  text-decoration: none; /* Remove underline */
+  cursor: pointer; 
+}
+
+.image-content{
+  position: absolute;
+  top:70vh;
+  left:140vh;
+}
+
+/* Staff*/
+
+.stafflogin-heading{
+  font-family: Source Serif Pro;
+  font-size: 40px;
+  position: relative;
+  top:2%;
+  left:35%;
+}
+
+.staffalert{
+  color: red;
+}

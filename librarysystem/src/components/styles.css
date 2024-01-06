@@ -1,0 +1,346 @@
+.navigate{
+    width:96%;
+    height: 10%;
+    background-color: rgba(255, 255, 255, 0.8);;
+    border-radius: 10px;
+    position: relative;
+    left:2%;
+    
+}
+
+.image2{
+    position:absolute;
+    left:21.45px;
+    top:9px;
+    left:8px;
+}
+
+.heading1{
+    color: #000;
+    font-family: jsMath-cmbx10;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position:absolute;
+    top:30px;
+    left:10%;
+}
+.heading2{
+    color: #000;
+    font-family: jsMath-cmbx10;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    position:absolute;
+    top:70px;
+    left:10%;
+}
+
+.images{
+    position: absolute;
+    top:30px;
+    left:50px;
+}
+
+.contentss{
+    position: relative;
+    left: 40%;
+}
+
+.nav-item1{
+    position: relative;
+    top:20px;
+    font-size: 20px;
+    font-family: Times;
+    color: #000;
+}
+.nav-item2{
+    position: relative;
+    top:-25px;
+    left:150px;
+    font-size: 20px;
+    font-family: Times;
+    color: #000;
+}
+.nav-item3{
+    position: relative;
+    top:-70px;
+    left:320px;
+    font-size: 20px;
+    font-family: Times;
+    color: #000;
+}
+.nav-item4{
+    position: relative;
+    top:-115px;
+    left:500px;
+    font-size: 20px;
+    font-family: Times;
+    color: #000;
+}
+.nav-item5{
+    position: relative;
+    top:-160px;
+    left:680px;
+    font-size: 20px;
+    font-family: Times;
+    color: #000;
+}
+
+/*Footer section starts here*/
+
+.footer{
+    background: linear-gradient(180deg, #030424 40.9%, rgba(19, 20, 45, 0.79) 138.45%);
+    width:100%;
+    height:80vh;
+    
+}
+
+.about{
+    background-color: #fff;
+    opacity: 0.2;
+    width: 295px;
+    height:259px;
+    position: relative;
+    top:15%;
+    left:2%;
+    border-radius: 5px;
+}
+
+.about-heading{
+    color:black;
+    position: relative;
+    left: 12%;
+
+}
+
+.mobile{
+    position: absolute;
+    left:27%;
+    top:19%;
+    color: black;
+}
+
+.logo1{
+    position: absolute;
+    top:20%;
+    left:18%;
+}
+.location{
+    position: absolute;
+    left:85px;
+    top:32%;
+}
+
+.logo3{
+    position: absolute;
+    top:35%;
+    left:18%;
+}
+.mail{
+    position: absolute;
+    left:85px;
+    top:58%;
+    color: black;
+    font-size: 16px;
+}
+
+.logo4{
+    position: absolute;
+    top:58%;
+    left:18%;
+}
+.whatsappno{
+    position: absolute;
+    left:85px;
+    top:72%;
+    color: black;
+    font-size: 16px;
+}
+
+.logo5{
+    position: absolute;
+    top:72%;
+    left:18%;
+}
+
+.useful{
+    background-color: #fff;
+    opacity: 0.2;
+    width: 395px;
+    height:259px;
+    position: relative;
+    top:-25.20vh;
+    left:25%;
+    border-radius: 5px;
+}
+
+.useful-heading{
+    color:black;
+    position: relative;
+    left: 25%;
+}
+
+.sla{
+    position: absolute;
+    left:15%;
+    top:25%;
+    color: black;
+}
+
+.sla-logo{
+    position: absolute;
+    top:26%;
+    left:8%;
+}
+.ifla{
+    position: absolute;
+    left:15%;
+    top:42%;
+    color: black;
+}
+.ifla-end{
+    position: absolute;
+    left:15%;
+    top:49%;
+    color: black;
+}
+
+.ifla-logo{
+    position: absolute;
+    top:47%;
+    left:8%;
+}
+
+.opening{
+    background-color: #fff;
+    opacity: 0.2;
+    width: 300px;
+    height:259px;
+    position: relative;
+    top:-62.55vh;
+    left:55%;
+    border-radius: 5px;
+}
+
+.opening-heading{
+    color:black;
+    position: relative;
+    left: 15%;
+}
+
+.mt{
+    position: relative;
+    top:5%;
+    left:20%;
+}
+
+.time{
+    position: relative;
+    left: 25%;
+}
+
+.days{
+    position: relative;
+    left:25%;
+}
+
+.media{
+   
+    width: 300px;
+    height:259px;
+    position: relative;
+    top:-99.60vh;
+    left:78%;
+    border-radius: 5px;
+}
+
+.subscribe{
+    position: relative;
+    left:2%;
+    top:5%;
+    background-color: #1E2E4E;
+    border-radius: 7px;
+    border: 1px solid #3C5A9A;
+    width:250px;
+    height: 30px;
+}
+
+.newsletter{
+    text-decoration: none; 
+    cursor: pointer; 
+    color: white;
+    position: relative;
+    top:2%;
+    left:2%;
+}
+
+.input{
+    background-color: #0b1852;
+    width: 290px;
+    height:50px;
+    position: absolute;
+    top:25%;
+    left:2%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+
+.emailsr{
+    position: absolute;
+    top:1vh;
+    left:2%;
+}
+.submits{
+    position: absolute;
+    top:1vh;
+    left:58%;
+    color: green;
+}
+
+.set1{
+    position: relative;
+    top:16vh;
+    left:-37%;
+}
+
+.you{
+    position: relative;
+    left: 80%;
+}
+.twitter{
+    position: relative;
+    left: 25vh;
+}
+
+.set2{
+    position: relative;
+    top:20vh;
+    left:-37%;
+}
+
+.insta2{
+    position: relative;
+    left:-27%;
+}
+
+.link{
+    position: relative;
+    left: 50%;
+}
+
+.google{
+    position: relative;
+    left:20vh;
+}
+
+.copy{
+    position: absolute;
+    bottom:4vh;
+    color: white;
+    left: 35%;
+}
+
+/* Footer 1 start here */

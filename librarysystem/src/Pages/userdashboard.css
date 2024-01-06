@@ -1,0 +1,381 @@
+.content{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    width:100%;
+    
+}
+
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mobiles{
+    position: absolute;
+    top:-105px;
+    left:-50vh;
+    color: white;
+    font-size: 10px;
+}
+.mails{
+    position: absolute;
+    left:12vh;
+    top:-54vh;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position: relative;
+    top:-15.98vh;
+    left:-53vh;
+
+}
+.mail-image{
+    position: relative;
+    top:-55vh;
+    left:8vh;
+
+}
+
+.category{
+    position: relative;
+    top:3vh;
+    left:25%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:20vh;
+    height:30%;
+}
+
+.cat-heading{
+    position: relative;
+    left:30%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+
+.category1{
+    position: relative;
+    top:3vh;
+    left:15%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:20vh;
+    height:30%;
+}
+.category2{
+    position: relative;
+    top:3vh;
+    left:10%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:20vh;
+    height:30%;
+}
+.category3{
+    position: relative;
+    top:3vh;
+    left:15%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:20vh;
+    height:30%;
+}
+
+.cat-heading1{
+    position: relative;
+    left:10%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+
+.reservation-content{
+    width:96%;
+    height: 150vh;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: relative;
+    left:2%;
+    border-radius: 10px;
+}
+
+.reservation-heading{
+    position: absolute;
+    top:2%;
+    left:5%;
+    color:black;
+}
+
+.reservation-details{
+    position: absolute;
+    top:10%;
+    left:2%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 520px;
+    height: 770px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.reservations-heading2{
+    position: relative;
+    top:1%;
+    left:20%;
+}
+
+.reservation-details2{
+    width: 520px;
+    height: 793px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+  
+
+}
+
+.cate{
+    width:300px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.56) 27.6%, rgba(255, 255, 255, 0.00) 100%);
+}
+.cate1{
+    width:200px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.56) 27.6%, rgba(255, 255, 255, 0.00) 100%);
+}
+
+.until{
+    position: relative;
+    top:-10.25vh;
+    left:32vh
+}
+
+.id{
+    position: relative;
+    top:-5vh;
+}
+
+.reservations-details3{
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    position: relative;
+    left: 5%;
+}
+
+.submit{
+    position: relative;
+    left:10vh;
+    top:-6vh;
+}
+.update{
+    position: relative;
+    left:18vh;
+    top:-6vh;
+}
+.cancel{
+    position: relative;
+    left:26vh;
+    top:-6vh;
+}
+
+.smallgroup{
+    position: relative;
+    top:-50%;
+    left:42%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 550px;
+    height: 228px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.smallgroup-heading{
+    position: relative;
+    top:2%;
+    left:12%;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.small-details{
+    width: 550px;
+    height: 177px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+    font-size: 15px;
+    font-family: Source Serif Pro;
+}
+
+.small-heading2{
+    color: black;
+    position: relative;
+    top: 1%;
+    left: 2%;
+}
+
+.small-text{
+    font-size: 15px;
+    position: relative;
+    left: 2%;;
+}
+
+.small-booking{
+    position: relative;
+    left: 2%;
+}
+.largegroup{
+    position: relative;
+    top:-45%;
+    left:56%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 550px;
+    height: 228px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.largegroup-heading{
+    position: relative;
+    top:2%;
+    left:12%;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.large-details{
+    width: 550px;
+    height: 177px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+    font-size: 15px;
+    font-family: Source Serif Pro;
+}
+
+.large-heading2{
+    color: black;
+    position: relative;
+    top: 1%;
+    left: 2%;
+}
+
+.large-text{
+    font-size: 15px;
+    position: relative;
+    left: 2%;;
+}
+
+.large-booking{
+    position: relative;
+    left: 2%;
+}
+.techgroup{
+    position: relative;
+    top:-42%;
+    left:42%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 550px;
+    height: 228px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.techgroup-heading{
+    position: relative;
+    top:2%;
+    left:12%;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.tech-details{
+    width: 550px;
+    height: 177px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+    font-size: 15px;
+    font-family: Source Serif Pro;
+}
+
+.tech-heading2{
+    color: black;
+    position: relative;
+    top: 1%;
+    left: 2%;
+}
+
+.tech-text{
+    font-size: 15px;
+    position: relative;
+    left: 2%;;
+}
+
+.tech-booking{
+    position: relative;
+    left: 2%;
+}
