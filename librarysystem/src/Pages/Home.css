@@ -1,0 +1,256 @@
+.content{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    width:100%;
+    
+}
+
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mobiles{
+    position: absolute;
+    top:-105px;
+    left:-50vh;
+    color: white;
+    font-size: 10px;
+}
+.mails{
+    position: absolute;
+    left:12vh;
+    top:-54vh;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position: relative;
+    top:-15.98vh;
+    left:-53vh;
+
+}
+.mail-image{
+    position: relative;
+    top:-55vh;
+    left:8vh;
+
+}
+
+.member{
+    position: relative;
+    top:20%;
+    left:8%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:20%;
+}
+
+.members{
+    position: relative;
+    left:8%;
+    color: white;
+    text-decoration: none; 
+    cursor: pointer; 
+}
+.staff{
+    position: relative;
+    top:-3vh;
+    left:45%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:30%;
+}
+
+.staffs{
+    position: relative;
+    left:30%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+.books{
+    position: relative;
+    top:-5.95vh;
+    left:80%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:30%;
+}
+
+.book{
+    position: relative;
+    left:40%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+
+.rooms{
+    position: relative;
+    top:20%;
+    left:8%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:20%;
+}
+
+.room{
+    position: relative;
+    left:15%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+.policies{
+    position: relative;
+    top:-3.50vh;
+    left:45%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:20%;
+}
+
+.policy{
+    position: relative;
+    left:25%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+.feedback{
+    position: relative;
+    top:-7vh;
+    left:80%;
+    background-color: darkgreen;
+    border-radius: 5px;
+    color: white;
+    width:15%;
+    height:20%;
+}
+
+.feedbacks{
+    position: relative;
+    left:37%;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+
+.head {
+    color: white;
+    position: relative;
+    top: 2%;
+    left: 2%;
+}
+
+.arrivals {
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.5); /* Use RGBA for transparency */
+    width: 80%;
+    height: 15%;
+    left: 12%;
+    border-radius: 5px;
+}
+
+.image1{
+    width:110px;
+    height:110px;
+    background-color: #1E325D;
+    position: relative;
+    top:6%;
+    left:5%;
+
+}
+
+.book1{
+    position: relative;
+    left:5%;
+}
+
+.book3{
+    position: relative;
+    left:5%;
+    top:2%;
+}
+
+.image3{
+    width:110px;
+    height:110px;
+    background-color: #1E325D;
+    position: relative;
+    top:-45%;
+    left:25%;
+
+}
+
+.image4{
+    width:110px;
+    height:110px;
+    background-color: #1E325D;
+    position: relative;
+    top:-96%;
+    left:45%;
+
+}
+.book4{
+    position: relative;
+    left:5%;
+    top: 2%;
+}
+.image5{
+    width:110px;
+    height:110px;
+    background-color: #1E325D;
+    position: relative;
+    top:-45vh;
+    left:65%;
+
+}
+.book5{
+    position: relative;
+    left:5%;
+    top: 2%;
+}
+.image6{
+    width:110px;
+    height:110px;
+    background-color: #1E325D;
+    position: relative;
+    top:-61vh;
+    left:85%;
+
+}
+.book6{
+    position: relative;
+    left:5%;
+    top: 2%;
+}
+

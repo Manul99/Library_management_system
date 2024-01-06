@@ -1,0 +1,316 @@
+.register-content{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 200vh;
+    width:100%;
+}
+
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mobiless{
+    position: relative;
+    top:60%;
+    left:4vh;
+    color: white;
+    font-size: 10px;
+}
+.mails{
+    position: absolute;
+    left:12vh;
+    top:-54vh;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position:absolute;
+    top:-2.98vh;
+    left:3vh;
+
+}
+.mail-image{
+    position: relative;
+    top:-55vh;
+    left:8vh;
+
+}
+
+.account{
+    width:50%;
+    height: 65%;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    position: relative;
+    left:26%;
+    top:5%;
+    
+}
+
+.account-heading{
+    position: relative;
+    top:2%;
+    left:20%;
+    font-family: Source Serif Pro;
+    color: #15A950;
+}
+
+.name{
+    position: relative;
+    top:30px;
+    left:5%;
+}
+.names{
+    position: relative;
+    top:-32px;
+    left:25%;
+}
+
+.option1{
+    position: relative;
+    top:2%;
+    left:10%;
+}
+
+.male{
+    position: relative;
+    top:-3.85vh;
+    left:34%;
+}
+.option2{
+    position: relative;
+    top:-9vh;
+    left:48%;
+}
+
+.female{
+    position: relative;
+    top:-13vh;
+    left:52%;
+}
+
+.birthday{
+    position: relative;
+    top:-4vh;
+    left:5%;
+}
+.birth{
+    position: relative;
+    top:-32px;
+    left:25%;
+}
+.email{
+    position: relative;
+    top:-35px;
+    left:5%;
+}
+.emails{
+    position: relative;
+    top:-35px;
+    left:25%;
+}
+.mobile{
+    position: relative;
+    top:-45px;
+    left:5%;
+}
+.mobiless{
+    position: relative;
+    top:-4vh;
+    left:25%;
+}
+.user{
+    position: relative;
+    top:-28px;
+    left:25%;
+}
+
+.agrees{
+    position: relative;
+    top:-68px;
+    left:8%;
+
+}
+.agree{
+    position: relative;
+    top:-42px;
+    left:5%;
+
+}
+.button{
+    position: relative;
+    top:-50px;
+    left:32%;
+
+}
+
+.reserve{
+    position: relative;
+    left:42%;
+    top:50%;
+}
+
+.book-reservation{
+    width:96%;
+    height: 105vh;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: relative;
+    left:2%;
+    border-radius: 10px;
+}
+
+.bookreservation-head1{
+    position: relative;
+    top:2%;
+    left:2%;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.borrowing-details{
+    position: relative;
+    top:2%;
+    left:2%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 520px;
+    height: 628px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.borrowing-head{
+    position: relative;
+    top:1%;
+    left:10%;
+}
+
+.borrwoing-details2{
+    width: 520px;
+    height: 571px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+
+}
+
+.books21{
+color: #000;
+font-family: Source Serif Pro;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+position: relative;
+top:2%;
+left:5%;
+}
+
+.cate{
+    width:300px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.56) 27.6%, rgba(255, 255, 255, 0.00) 100%);
+}
+.cate1{
+    width:200px;
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.56) 27.6%, rgba(255, 255, 255, 0.00) 100%);
+}
+
+.until{
+    position: relative;
+    top:-10.25vh;
+    left:32vh
+}
+
+.id{
+    position: relative;
+    top:-5vh;
+}
+
+.reservation-buttons{
+    position: relative;
+    left:-5vh;
+    top:6vh;
+    
+}
+
+.submit{
+    position: relative;
+    left:20vh;
+}
+.update{
+    position: relative;
+    left:30vh
+}
+.cancel{
+    position: relative;
+    left:40vh
+}
+
+.borrowingbooks-rules{
+    position: relative;
+    top:-48%;
+    left:50%;
+    color: #000;
+    font-family: Source Serif Pro;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 550px;
+    height: 328px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #D9D9D9;
+}
+
+.rules-heading{
+    position: relative;
+    top:2%;
+    left:12%;
+    color: #000;
+    font-family: Times New Roman;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.ruless-details{
+    width: 550px;
+    height: 277px;
+    flex-shrink: 0;
+    border: 1px solid #000;
+    background: #FFF;
+    font-size: 15px;
+    font-family: Source Serif Pro;
+}
+
