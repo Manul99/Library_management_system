@@ -1,0 +1,345 @@
+.b-box{
+    height: 474px;
+    width: 1269px;
+    }
+.b-rectangle{
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 474px;
+    left: 100px;
+    mix-blend-mode: difference;
+    position: fixed;
+    top: 150px;
+    width: 1269px;
+    }    
+.b-label{
+    height: 40px;
+    width: 355px;
+    }
+.b-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 160px;
+    }  
+.b1-label{
+    height: 40px;
+    width: 52px;
+    }
+.b1-text-wrapper {
+    color: #000000;
+    font-family: "Source Serif Pro-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 110px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 190px;
+    }
+
+.b2-box{
+    height: 40px;
+    width: 170px;
+    }
+.b2-rectangle{
+    background-color: #d9d9d9;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 8px;
+    height: 40px;
+    left: 165px;
+    position: fixed;
+    top: 190px;
+    width: 170px;
+    }
+.b2-label{
+    height: 30px;
+    width: 140px;
+    }
+.b2-text-wrapper {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 170px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 200px;
+    }
+.b3-text-wrapper{
+        color: #000000;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 400;
+        left: 150px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: fixed;
+        top: 230px;
+        width: 352px;
+        }
+    .b1-span{
+        color: #000000;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 400;
+        left: 250px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: fixed;
+        top: 230px;
+        width: 352px;
+        }
+.b4-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 260px;
+    width: 352px;
+    }
+.b2-span{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 250px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 260px;
+    width: 352px;
+    }
+.b5-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 290px;
+    width: 352px;
+    }
+.b3-span{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 250px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 290px;
+    width: 352px;
+    }
+.b4-label{
+    height: 125px;
+    width: 534px;
+    }
+.note-dork-diaries{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 320px;
+    width: 534px;
+    }
+    
+.b6-text-wrapper{
+    font-weight: 700;
+    }
+.b4-span{
+    font-family: "Source Serif Pro-Regular", Helvetica;
+    }
+.b3-box{
+    height: 17px;
+    width: 170px;
+    }
+.b3-rectangle {
+    background-color: #1e325d;
+    height: 170px;
+    left: 1000px;
+    position: fixed;
+    top: 250px;
+    width: 170px;
+    }
+.b4-box {
+    height: 150px;
+    width: 155px;
+    }
+.book-image {
+    height: 150px;
+    left: 1008px;
+    position: fixed;
+    top: 250px;
+    width: 155px;
+    }
+.b5-label{
+    height: 30px;
+    width: 110px;
+    }
+.b7-text-wrapper {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 450px;
+    }
+.b6-label {
+    height: 30px;
+    width: 83px;
+    }
+    
+.b8-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 500px;
+    }
+.b4-box{
+    height: 30px;
+    width: 148px;
+    }
+    
+.b4-rectangle{
+    background-color: #21fac5;
+    border-radius: 6px;
+    height: 30px;
+    left: 280px;
+    position: fixed;
+    top: 450px;
+    width: 148px;
+    }
+.b6-label {
+    height: 30px;
+    width: 83px;
+    }
+    
+.b8-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 150px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 500px;
+    }
+    
+.b7-box{
+    height: 32px;
+    width: 124px;
+    }
+    
+.b7-rectangle{
+    background-color: #c95858;
+    border-radius: 6px;
+    height: 32px;
+    left: 280px;
+    position: fixed;
+    top: 500px;
+    width: 124px;
+    }
+ 
+.b7-label{
+    height: 25px;
+    width: 115px;
+    }
+    
+.b9-text-wrapper {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 300px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 453px;
+    }
+
+.b8-label{
+    height: 30px;
+    width: 78px;
+    }
+
+.b10-text-wrapper{
+    color: #ffffff;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 300px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 505px;
+    }
+.b8-box{
+    height: 56px;
+    width: 270px;
+    }
+    
+.b8-rectangle{
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 6px;
+    height: 56px;
+    left: 950px;
+    opacity: 0.8;
+    position: fixed;
+    top: 450px;
+    width: 270px;
+    }
+    
+.b9-label{
+    height: 30px;
+    width: 171px;
+    }
+.b11-text-wrapper{
+    color: #000000;
+    font-family: "Source Serif Pro-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 990px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 460px;
+    }
+    
+            
+    
+    
+        
+    
+    
+      
+
