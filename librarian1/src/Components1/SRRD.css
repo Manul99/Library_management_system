@@ -1,0 +1,261 @@
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mails{
+    position: absolute;
+    left:190px;
+    top:-365px;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position: relative;
+    top:20px;
+    left:20px;
+
+}
+.mail-image{
+    position: relative;
+    top:-370px;
+    left:163px;
+
+}
+
+.mobile {
+    position:relative;
+    left: 60px;
+    top: 5px;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+
+
+
+
+
+.box1 {
+    height: 453px;
+    width: 673px;
+}
+
+.rectangle12 {
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    height: 400px;
+    left: 50vh;
+    mix-blend-mode:difference;
+    position:absolute;
+    top: 30%;
+    width: 60%;
+   
+}
+
+
+.text-studyroom {
+    color: #15a950;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 40vh;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top:10%;
+    }
+
+    .box2 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .rectangle2 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -40vh;
+        width: 269px;
+    }
+
+
+    .text2 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 80px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+        
+
+    .box3 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .rectangle3 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -40vh;
+        width: 269px;
+    }
+
+    .text3 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 70px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+    
+    .box4 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .rectangle4 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text4 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 120px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+
+    .box5 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .rectangle5 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text5 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 70px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+    
+    
+                
+      .table11 {
+        position: relative;
+        font-size: 10px;
+        left: 15%;
+        top: 10vh;
+        width: 630px;
+        height: 253px;
+       
+        
+
+        table th 
+        {
+        text-align: left;
+        padding: 10px;
+        width: 10px;
+        column-width: 20px;
+        }
+
+      }
+
+      
+
+    
+
+    .Approve1{
+        position: relative;
+        top:17px;
+        left:10px;
+        color: #15a950d4;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 14px;
+    }
+
+    .Reject1{
+        position: relative;
+        top:-20px;
+        left:120px;
+        color: #15a950d4;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 14px;
+    }
+
+    .Approve2{
+        position: relative;
+        top:20px;
+        left:10px;
+        color: #15a950d4;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size:14px;
+    }
+
+    .Reject2{
+        position: relative;
+        top:-17px;
+        left:58%;
+        color: #15a950d4;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 14px;
+    }
+   
+    .buttonCollection{
+        position: relative;
+        top:40vh;
+    }
+
+  
