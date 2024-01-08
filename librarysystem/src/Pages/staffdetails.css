@@ -1,0 +1,288 @@
+.staffdetails-page{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width:100%;
+}
+.staff-box {
+    height: 453px;
+    width: 673px;
+}
+
+.staff-rectangle{
+    background-color: #efefef;
+    border-radius: 10px;
+    height: 600px;
+    left: 358px;
+    mix-blend-mode: difference;
+    position: relative;
+    mix-blend-mode: difference;
+    top: 268px;
+    width: 1000px;
+}
+
+.staff-text{
+    color: #15a950;
+    font-family: "Source Serif Pro-Bold";
+    font-size: 24px;
+    font-weight: 700;
+    left: 400px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: -270px;
+    }
+
+    .staff-box1 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staff-rectangle1 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staff-text1 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 140px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+        
+
+    .staff-box2 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staff-rectangle2{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staff-tex2 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 120px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+    
+    .staff-box3 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staff-rectangle3{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staff-text3 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 100px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+
+    
+                
+      .staff-table {
+        position: relative;
+        left: 450px;
+        top: -200px;
+        width: 700px;
+      }
+
+      .text8 {
+        color: #181818;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 14px;
+        font-weight: 700;
+        left: 600px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -170px;
+
+      }
+
+      .text9 {
+
+        color: #d52424;
+font-family: "Source Serif Pro-Bold", Helvetica;
+font-size: 14px;
+font-weight: 700;
+left: 475px;
+letter-spacing: 0;
+line-height: normal;
+position: relative;
+top: -160px;
+      }
+
+      .box8 {
+        height: 19px;
+        width: 70px;
+    }
+    
+    .rectangle8 {
+        background-color: #15a950bf;
+        border-radius: 5px;
+        height: 19px;
+        left: 650px;
+        position: relative;
+        top: -190px;
+        width: 70px;
+    }
+     
+
+    .text10 {
+        color: #f8f8f8;
+font-family: "Source Serif Pro-Bold", Helvetica;
+font-size: 13px;
+font-weight: 700;
+left: 660px;
+letter-spacing: 0;
+line-height: normal;
+opacity: 0.75;
+position: relative;
+top: -208px;
+    }
+
+    .box9{
+        height: 19px;
+        width: 70px;
+    }
+    
+.rectangle9 {
+        background-color: #15a950bf;
+        border-radius: 5px;
+        height: 19px;
+        left: 0;
+        position: relative;
+        top: 40px;
+        width: 70px;
+    }
+
+ .text11 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 13px;
+        font-weight: 700;
+        left: 7px;
+        letter-spacing: 0;
+        line-height: normal;
+        opacity: 0.75;
+        position: relative;
+        top: 23px;
+        }
+
+        .box10 {
+            height: 19px;
+            width: 70px;
+        }
+        
+    .rectangle10 {
+            background-color: #15a950bf;
+            border-radius: 5px;
+            height: 19px;
+            left: 100px;
+            position: relative;
+            top: 5px;
+            width: 70px;
+        }
+
+     .text12 {
+            color: #ffffff;
+            font-family: "Source Serif Pro-Bold", Helvetica;
+            font-size: 13px;
+            font-weight: 700;
+            left: 115px;
+            letter-spacing: 0;
+            line-height: normal;
+            opacity: 0.75;
+            position: relative;
+            top: -10px;
+            }
+            table {
+                border-collapse: collapse; /* Combine borders for a cleaner look */
+                border: 1px solid #f2e5e5; /* Add a border around the table */
+                width: 100%; /* Ensure it spans the full width of its container */
+                margin-bottom: 10px; /* Add some space below the table */
+              }
+              
+              th, td {
+                padding: 10px; /* Add spacing within cells */
+                text-align: left; /* Align text to the left */
+                border: 1px solid #090808; /* Add borders between cells */
+                font-family: source serif pro;
+                font-weight: bold;
+                background-color: #ffffff;
+                height: 60px;
+               
+              }
+              
+              th {
+                background-color: #7f7f7f; /* Light gray background for headers */
+                font-weight: bold; /* Make headers bold */
+              }
+              
+              tbody tr:nth-child(even) {
+                background-color: #5f5959; /* Alternate row colors for readability */
+              }
+              tr {
+                height: 10px; /* Example: Set row height to 50 pixels */
+              }
+
+.staff-heading1{
+    position: relative;
+    left:-50%;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+    color: white;
+}
+.staff-heading2{
+    position: relative;
+    left:0.8%;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+    color: white;
+}
+.staff-heading3{
+    position: relative;
+    left:0.8%;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+    color: white;
+}

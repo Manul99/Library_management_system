@@ -34,7 +34,7 @@ export default function Navbar1() {
           <a class="nav-link active" href="studyroom">Reserve Study Room</a>
         </li>
         <li class="nav-item5">
-          <a class="nav-link active" href="#">Feedback</a>
+          <a class="nav-link active" href="/feedback">Feedback</a>
         </li>
        
         </ul>

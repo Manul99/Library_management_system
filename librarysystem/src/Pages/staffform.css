@@ -1,0 +1,198 @@
+.staffform-content{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width:100%;
+}
+
+.staffform{
+    background-color: #efefef;
+    border-radius: 10px;
+    height: 750px;
+    left: 358px;
+    mix-blend-mode: difference;
+    position: relative;
+    mix-blend-mode: difference;
+    top: 250px;
+    width: 1000px;
+}
+
+.staffform-heading11{
+    color:#15A950;
+    position: absolute;
+    top:2%;
+    left:35%;
+}
+
+
+.staffform-text{
+    color: #15a950;
+    font-family: "Source Serif Pro-Bold";
+    font-size: 24px;
+    font-weight: 700;
+    left: 70%;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: -270px;
+    }
+
+    .staffform-box1 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staffform-rectangle1 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -110%;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staffform-text1 {
+        color: white;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -58%;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -20vh;
+        }
+        
+
+    .staffform-box2 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staffform-rectangle2{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -110%;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staffform-tex2 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -25%;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+    
+    .staffform-box3 {
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staffform-rectangle3{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: -110%;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staffform-text3 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: -22%;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+
+    .staffform-box4{
+        height: 37px;
+        width: 269px;
+    }
+    
+    .staffform-rectangle4 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -500px;
+        width: 269px;
+    }
+
+    .staffform-text4 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 10%;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+        }
+
+    .staffform-box5{
+        height: 37px;
+        width: 269px;
+    }
+    .staffform-rectangle5{
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -500px;
+        width: 269px;
+}
+    .staffform-text5{
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 18%;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -530px;
+    }
+              
+.staffform-heading1{
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+    position: relative;
+    left:35%;
+    top:-56vh;
+}
+.staffform-heading2{
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+.staffform-heading3{
+    color: white;
+    text-decoration: none; /* Remove underline */
+    cursor: pointer; 
+}
+
+.staffform-buttonss{
+    position: relative;
+    top:-68vh;
+    left:8%;
+}

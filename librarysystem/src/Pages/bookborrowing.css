@@ -1,0 +1,245 @@
+
+.borrowing-page{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width:100%;
+}
+.login{
+    font-size: 20px;
+    color:white;
+    position: absolute;
+    top:-10px;
+}
+
+.logins{
+    position: relative;
+    top:4vh;
+    left:195vh;
+}
+
+.login-image{
+    position: absolute;
+    top:4.55vh;
+    left: 191vh;
+}
+
+.mails{
+    position: absolute;
+    left:190px;
+    top:-365px;
+    color: white;
+    font-size: 10px;
+}
+
+.mobile-image{
+    position: relative;
+    top:20px;
+    left:20px;
+
+}
+.mail-image{
+    position: relative;
+    top:-370px;
+    left:163px;
+
+}
+
+.mobile {
+    position:relative;
+    left: 60px;
+    top: 5px;
+    color: #ffffff;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+.rectangle1 {
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    height: 400px;
+    left: 50vh;
+    mix-blend-mode:difference;
+    position:absolute;
+    top: 50%;
+    width: 60%;
+}
+
+.text-bookborrowingss {
+    color: #15a950;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left:95vh;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    top: 6%;
+    }
+
+  
+    
+    .rectangle2 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text2 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 80px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+        
+
+    
+    
+    .rectangle3 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text3 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 70px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+    
+    
+    
+    .rectangle4 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text4 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 120px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+
+    
+    
+    .rectangle5 {
+        background-color: #15a950d4;
+        border-radius: 10px;
+        height: 37px;
+        left: 50px;
+        position: relative;
+        top: -35vh;
+        width: 269px;
+    }
+
+    .text5 {
+        color: #ffffff;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 20px;
+        font-weight: 700;
+        left: 70px;
+        letter-spacing: 0;
+        line-height: normal;
+        position: relative;
+        top: -39vh;
+        }
+    
+    
+    
+        
+
+      .table-bookborrowing {
+        position: relative;
+        font-size: 10px;
+        left: 35%;
+        top: 20vh;
+        width: 630px;
+        height: 253px;
+
+        table th 
+        {
+            text-align: left;
+            padding: 10px;
+            width: 40px;
+            column-width: 20px;
+        }
+
+        tr {
+            height: 30px;
+            padding: 10px;
+            column-width:20px;
+        }
+
+        
+      }
+
+      .text8 {
+        color: #050505;
+        font-family: "Source Serif Pro-Bold", Helvetica;
+        font-size: 14px;
+        font-weight: 700;
+        left: 500px;
+        letter-spacing: 0; 
+        line-height: normal;
+        position: relative;
+        top: -140px;
+
+      }
+
+      .text9 {
+
+        color: #5f5a5a;
+font-family: "Source Serif Pro-Bold", Helvetica;
+font-size: 14px;
+font-weight: 700;
+left: 475px;
+letter-spacing: 0;
+line-height: normal;
+position: relative;
+top: -140px;
+      }
+
+
+      .borrowing-buttons{
+        position: relative;
+        left:-90%;
+      }
+      

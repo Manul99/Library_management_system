@@ -55,10 +55,14 @@ export default function Bookreservation() {
                        <p>Book Name</p> 
                        <select name='category' id='category' className='cate'>
                             <option className='show'>Select</option>
-                            <option value='kids'>Kids</option>
-                            <option value='poetry'>Poetry</option>
-                            <option value='romance'>Romance</option>
-                            <option value='romance'>Sci & Fantacy</option>
+                            <option value='kids'>It Ends With Us by Colleen Hoove</option>
+                            <option value='poetry'>The Love Hypothesis by Ali Hazelwood</option>
+                            <option value='romance'>Wildfire by Hannah Grace</option>
+                            <option value='romance'>Fourth Wing by Rebecca Yarro</option>
+                            <option value='romance'>Diary of Wimpy Kid by Jeff Kinney</option>
+                            <option value='romance'>he Lightning Theif by Rick Riordarn</option>
+                            <option value='romance'>Harry Potter and the Prisoner of Azkaban by J.K. Rowling</option>
+                            <option value='romance'>Harmony by Whitney Hanson</option>
                        </select>
                        <br></br><br></br>
                        <p>From</p>
@@ -73,9 +77,9 @@ export default function Bookreservation() {
                        </div>
 
                        <div className='reservation-buttons'>
-                       <button type="submit" class=" submit btn btn-success">Submit</button>
-                       <button type="submit" class="update btn btn-success">Update</button>
-                       <button type="submit" class=" cancel btn btn-success">Cancel</button>
+                       <button type="submit" className='submit'>Submit</button>
+                       <button type="submit" className='update'>Update</button>
+                       <button type="submit" className='delete'>Cancel</button>
                        </div>
                     </form>
                    </div>

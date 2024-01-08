@@ -2,7 +2,7 @@ import React from 'react'
 import './profile.css'
 import { Link } from 'react-router-dom'
 import { Button } from 'react-bootstrap'
-export default function () {
+export default function Profile() {
   return (
     
     <div className="User-box"> 

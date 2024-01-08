@@ -145,7 +145,7 @@
     text-decoration: none; /* Remove underline */
     cursor: pointer; 
 }
-.feedback{
+.home-feedback{
     position: relative;
     top:-7vh;
     left:80%;

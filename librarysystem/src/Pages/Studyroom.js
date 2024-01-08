@@ -49,8 +49,13 @@ export default function Studyroom() {
             </div>
             <div className='click-here'>
               <h4 className='click-heading'>Click here to book a study room</h4> 
-              <a href="/reserveroom" class="next btn btn-primary btn-success" tabindex="-1" role="button" aria-disabled="true">Next</a>
-            </div>
+              </div>
+              <div className='nexts'>
+              <a href="/makereservation" className=" btn btn-primary btn-success" tabindex="-1" role="button" aria-disabled="true">Next</a>
+              </div>
+              
+              
+            
         </div>
         <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
         <Footer1/>

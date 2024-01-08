@@ -5,6 +5,15 @@ import login from '../Images/login.svg'
 import mobile from '../Images/mobile.svg'
 import mail from '../Images/mail.svg'
 import kids1 from '../Images/kids1.png'
+import kids2 from '../Images/kids2.png'
+import kids3 from '../Images/kids3.png'
+import kids4 from '../Images/kids4.png'
+import kids5 from '../Images/kids5.png'
+import kids6 from '../Images/kids6.png'
+
+
+
+
 export default function Kids() {
   return (
     <div className='login-page'>
@@ -39,7 +48,12 @@ export default function Kids() {
     <div class="">
    
       <div class="kids2 card-body">
-      <a href="#" className='cat-heading'>Romance</a>
+      <img src={kids2} width={180} height={220}/>
+      <div className='book-content'>
+        <a href="/bookpage" className='book-heading1'>Diary of Wimpy Kid</a><br></br>
+        <a href="/bookpage" className='book-heading1'>By Jeff Kinney</a>
+        
+        </div>
       </div>
     </div>
   </div>
@@ -47,7 +61,12 @@ export default function Kids() {
     <div class="">
      
       <div class="kids3 card-body">
-      <a href="kids" className='cat-heading'>Kids</a>
+      <img src={kids3} width={180} height={220}/>
+      <div className='book-content'>
+        <a href="/bookpage" className='book-heading1'>Diary of Wimpy Kid</a><br></br>
+        <a href="/bookpage" className='book-heading1'>By Jeff Kinney</a>
+        
+        </div>
       </div>
     </div>
   </div>
@@ -55,7 +74,12 @@ export default function Kids() {
     <div class="">
  
       <div class="kids4 card-body">
-      <a href="#" className='cat-heading1'>Sci-Fi & Fantacy</a>
+      <img src={kids4} width={180} height={220}/>
+      <div className='book-content'>
+        <a href="/bookpage" className='book-heading1'>Diary of Wimpy Kid</a><br></br>
+        <a href="/bookpage" className='book-heading1'>By Jeff Kinney</a>
+        
+        </div>
       </div>
     </div>
   </div>
@@ -63,7 +87,12 @@ export default function Kids() {
     <div class="">
  
       <div class="kids5 card-body">
-      <a href="#" className='cat-heading'>Actions</a>
+      <img src={kids5} width={180} height={220}/>
+      <div className='book-content'>
+        <a href="/bookpage" className='book-heading1'>Diary of Wimpy Kid</a><br></br>
+        <a href="/bookpage" className='book-heading1'>By Jeff Kinney</a>
+        
+        </div>
       </div>
     </div>
   </div>

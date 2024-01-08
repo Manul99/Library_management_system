@@ -84,7 +84,7 @@ const deleteStaff = asyncHandler(async(req,res) =>{
 const getStaff = asyncHandler(async(req,res) =>{
     try {
         const getStaffs = await Staff.find();
-        res.status(200).json(getStaff);
+        res.status(200).json(getStaffs);
     } catch (error) {
         console.log('Failed to fetch the data');
         res.status(500).json({error:'Failed to fetch data'});

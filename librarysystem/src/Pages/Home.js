@@ -66,7 +66,7 @@ export default function Home() {
 <div className='policies'>
       <a href="#" className='policy'>Library Policies</a>
   </div>
-<div className='feedback'>
+<div className='home-feedback'>
       <a href="" className='feedbacks'>Feedback</a>
   </div>
   

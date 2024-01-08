@@ -66,7 +66,7 @@ export default function Login() {
                 <input type="password" class="form-control w-75 bg-secondary" id="exampleFormControlInput1Password" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)}/>
            </div>
 
-           <button type="submit" class="btn btn-success" onClick={handleLogin}>Login</button>
+           <button type="submit" className='login-btn' onClick={handleLogin}>Login</button>
            <p className='registers'>Don't have an account<a href="/register" className='register'>Register</a></p>
            <p className='registers'>All staff members log from here<a href="/stafflogin" className='register'>Staff</a></p>
       </div>
