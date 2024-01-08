@@ -1,0 +1,258 @@
+.f-box1
+{
+    height: 505px;
+    width: 700px;
+    }
+.f-rectangle
+{
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 505px;
+    left: 400px;
+    mix-blend-mode: difference;
+    position: fixed;
+    top: 200px;
+    width: 700px;
+    }
+.f-text
+{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold";
+    font-size: 50px;
+    font-weight: 600;
+    left: 250px;
+    letter-spacing: 0;
+    top: 10px;
+    position: absolute;
+    }
+.label1{
+    height: 100px;
+    width: 100px;
+    }
+.what-do-you-think-of {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 160px;
+    font-weight: 700;
+    left: 420px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0px;
+    }
+    
+.text-wrapper1{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    }
+
+.box1{
+    height: 100px;
+    width: 280px;
+    }
+.rectangle1{
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    height: 100px;
+    left: 420px;
+    position: fixed;
+    top: 420px;
+    width: 280px;
+    }
+.label2{
+    height: 20px;
+    width: 331px;
+    }
+.text-wrapper2 {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 420px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 380px;
+    }
+.label3{
+    height: 20px;
+    width: 266px;
+    }
+    
+.text-wrapper3 {
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 420px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 550px;
+    }
+.box3 {
+    height: 14px;
+    width: 12px;
+    }
+.ellipse1{
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 6px/7px;
+    height: 14px;
+    left: 430px;
+    position: fixed;
+    top: 600px;
+    width: 12px;
+    }
+.label4{
+    height: 20px;
+    width: 25px;
+    }
+    
+.text-wrapper4{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 450px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 600px;
+    }
+.box4{
+    height: 14px;
+    width: 12px;
+    }
+.ellipse2{
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    border-radius: 6px/7px;
+    height: 14px;
+    left: 550px;
+    position: fixed;
+    top: 600px;
+    width: 12px;
+    }
+.label5{
+    height: 20px;
+    width: 25px;
+    }
+.text-wrapper5{
+    color: #000000;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 600px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 600px;
+    }
+ .label6{
+    height: 15px;
+    width: 69px;
+    }
+ .text-wrapper6{
+    color: #030303;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 900px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 500px;
+    }
+.box6 {
+    height: 22px;
+    width: 65px;
+    }
+.rectangle4{
+    background-color: #15a950;
+    border-radius: 10px;
+    height: 22px;
+    left: 900px;
+    position: fixed;
+    top: 525px;
+    width: 65px;
+    }
+.label7{
+    height: 15px;
+    width: 28px;
+    }
+    
+.text-wrapper7{
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 910px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 526px;
+    }
+.box7{
+    height: 22px;
+    width: 100px;
+    } 
+    
+.rectangle5{
+    background-color: #15a950;
+    border-radius: 10px;
+    height: 22px;
+    left: 780px;
+    position: fixed;
+    top: 600px;
+    width: 100px;
+    } 
+.label8{
+    height: 25px;
+    width: 67px;
+    }
+.text-wrapper8 {
+    color: #ffffff;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 790px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 600px;
+    }
+.box8{
+    height: 22px;
+    width: 100px;
+    } 
+.rectangle6{
+    background-color: #15a950;
+    border-radius: 10px;
+    height: 22px;
+    left: 900px;
+    position: fixed;
+    top: 600px;
+    width: 100px;
+    } 
+.label9{
+    height: 30px;
+    width: 68px;
+    }
+.text-wrapper9{
+    color: #ffffff;
+    font-family: "Source Serif Pro-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 910px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 600px;
+    }

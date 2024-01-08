@@ -1,0 +1,295 @@
+.label {
+    height: 80px;
+    width: 521px;
+}
+
+.label .text-wrapper {
+    color: #ffffff;
+    font-family: "Source Serif Pro-Bold";
+    font-size: 64px;
+    font-weight: 700;
+    left: 500px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 40px;
+}
+.box {
+    height: 600px;
+    width: 1200px;
+}
+
+.box .rectangle {
+    background-color: #1e2d4e;
+    border: 2px solid;
+    border-color: #15a950;
+    height: 600px;
+    left: 140px;
+    position: fixed;
+    top: 110px;
+    width: 1200px;
+}
+.container {
+    position: relative; /* Create a positioning context */
+  }
+  
+  .rectangle {
+    width: 350px;
+    height: 300px;
+    background-color: rgb(97, 97, 122); /* Adjust rectangle color as needed */
+    position: absolute;
+    top: 900px;
+    left: 950px;
+  }
+  
+img {
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    z-index: 1; /* Ensure image is above rectangle */
+  }
+.rectangle2{
+    width: 370px;
+    height:300px;
+    background-color: rgba(0, 0, 0, 0.077); /* Adjust rectangle color as needed */
+    position: fixed;
+    top: 110px;
+    left: 980px;
+}
+.text{
+    color: #ffffff;
+font-family: "Source Serif Pro-Bold";
+font-size: 32px;
+font-weight: 700;
+left: 600px;
+letter-spacing: 0;
+line-height: normal;
+position: fixed;
+top: 130px;
+}
+.text1{
+    color: #ffffff;
+font-family: "Source Serif Pro";
+font-size: 32px;
+left: 650px;
+letter-spacing: 0;
+line-height: normal;
+position: fixed;
+top: 180px;
+}
+.text2{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 600px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 230px;
+}
+.text3{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 270px;
+}
+.text4{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 310px;
+}
+.text5{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 340px;
+}
+.text6{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 650px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 370px;
+}
+.Image3 {
+    position: absolute;
+    top: 900px;
+    left:400px;
+    z-index: 1; /* Ensure image is above rectangle */
+  }
+  .rectangle3{
+    width: 430px;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.077); /* Adjust rectangle color as needed */
+    position: absolute;
+    top: 410px;
+    left: 540px;
+}
+.text7{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 24px;
+    font-weight: bold;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 450px;
+}
+.text8{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 24px;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 480px;
+}
+.text9{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 15px;
+    font-weight: bold;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 520px;
+}
+.text10{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 550px;
+}
+.text11{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 590px; 
+}
+.text12{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 400px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 890px; 
+}
+.text13{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 32px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 450px;
+}
+.text14{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 24px;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 480px;
+}
+.text15{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 15px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 520px;
+}
+.text16{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 15px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 550px;
+}
+.text17{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 590px; 
+}
+.text18{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 610px; 
+}
+.text19{
+    color: #ffffff;
+    font-family: "Source Serif Pro";
+    font-size: 20px;
+    font-weight: bold;
+    left: 1000px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 800px; 
+}
+.copy{
+    position: absolute;
+    bottom:1vh;
+    color: white;
+    left: 35%;
+}
