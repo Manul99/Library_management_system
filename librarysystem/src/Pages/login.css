@@ -95,7 +95,7 @@
     left: 10%;
   }
 
-  .btn {
+  .login-btn {
     position: relative;
     top: 5%;
     left: 44%;
@@ -174,14 +174,19 @@
   font-size: 24px;
   position: relative;
   top:15%;
-  left: 5%;
+  left: 8%;
 }
 
-.next{
+.nexts{
   position: relative;
-  top:-4vh;
-  left:70vh;
+  top:-2vh;
+  left:65vh;
+  width: 50px;
+  height:20px;
+  background-color: green;
+  color: white;
 }
+
 
 .reserveroom-heading{
   position: absolute;
@@ -238,7 +243,7 @@
 
 .reserves{
   position: relative;
-  top:14vh;
+  top:90vh;
   left: 38%;
 }
 
@@ -301,6 +306,10 @@
   left:74%;
 }
 
+.stafflogin-button{
+  position: relative;
+  left:40vh
+}
 .tech-heading{
   background-color: #1E325D;
   width:300px;

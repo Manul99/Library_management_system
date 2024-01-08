@@ -1,10 +1,11 @@
 import './App.css';
 import About from './components/About'; // Import the About component
+import Profile from './components/Profile';
 
 function App() {
   return (
     <div className="App">
-      <About /> {/* Use the About component */}
+      <Profile/> {/* Use the About component */}
     </div>
     
   );

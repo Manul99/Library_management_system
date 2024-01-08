@@ -6,6 +6,6 @@ const router = express.Router();
 router.post('/',reserveStudyRoom);
 router.put('/:nic',updatereserveStudyroom);
 router.delete('/:nic',deletereserveStudyroom);
-router.get('/reservation',getreserveStudyroom);
+router.get('/',getreserveStudyroom);
 
 module.exports = router;

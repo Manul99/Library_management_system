@@ -5,7 +5,7 @@ import Table from 'react-bootstrap/Table';
 
 
 
-export default function() {
+export default function Staff() {
   return (
     
 

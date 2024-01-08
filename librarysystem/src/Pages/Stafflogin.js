@@ -39,11 +39,17 @@ export default function Stafflogin() {
     }
 
     if(adminloggIn){
-        return <Navigate to='/bookpage'/>
+        return <Navigate to='/detailsmember'/>
     }
 
     else if(librarianloggIn){
-        return <Navigate to='/'/>
+        return <Navigate to='/studyroomres'/>
+    }
+    else if(bookkeeperloggIn){
+        return <Navigate to='/bookform'/>
+    }
+    else if(bookkeeperloggIn){
+        return <Navigate to='/bookform'/>
     }
 
   return (
@@ -72,7 +78,7 @@ export default function Stafflogin() {
                 <input type="password" class="form-control w-75 bg-secondary" id="exampleFormControlInput1" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)}/>
            </div>
 
-           <button type="submit" class="btn btn-success" onClick={handlelogin}>Login</button>
+           <button type="submit" class="stafflogin-button" onClick={handlelogin}>Login</button>
            {error && <p className='staffalert'>{error}</p>}
       </div>
       <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>

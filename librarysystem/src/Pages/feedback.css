@@ -1,0 +1,84 @@
+.feedback-pagesss{
+    background-image: url('../Images/background.png');
+    background-size: cover;
+    background-position: center;
+    height: 250vh;
+    width:100%;
+}
+
+.feedback-content{
+    background-color: #d9d9d9;
+    border-radius: 10px;
+    height: 600px;
+    left: 50vh;
+    mix-blend-mode:difference;
+    position:absolute;
+    top: 50%;
+    width: 60%;
+}
+
+.feedback-heading1{
+    position: absolute;
+    top:2%;
+    left:35%;
+}
+
+.question1{
+    position: absolute;
+    top:35%;
+}
+
+.reaction1{
+    position: relative;
+    left:36vh;
+}
+.reaction2{
+    position: relative;
+    left:36vh;
+}
+
+.feedback-contentss{
+    position: relative;
+    top:20vh;
+}
+
+.yesno{
+    position: relative;
+    left:50%;
+}
+
+.feedback-submit{
+    position: absolute;
+    left:50%;
+    top:5%;
+}
+
+.reaction{
+    position: relative;
+    left: 40vh;
+}
+
+textarea {
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: vertical; /* Allow vertical resizing */
+    position: relative;
+    top:20%;
+    left:20%;
+  }
+  
+  /* Optional: Add some styles for better visual appeal */
+  textarea:focus {
+    border-color: #007bff; /* Highlight border on focus */
+    outline: none;
+  }
+  
+  .feedback{
+    position: absolute;
+    left:50vh;
+    top:110%
+  }

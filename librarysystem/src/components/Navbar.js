@@ -27,13 +27,13 @@ export default function Navbar() {
           <a class="nav-link active" href="#">About Us</a>
         </li>
         <li class="nav-item3">
-          <a class="nav-link active" href="/about">Contact Us</a>
+          <a class="nav-link active" href="/staffprofile">Contact Us</a>
         </li>
         <li class="nav-item4">
-          <a class="nav-link active" href="#">Services</a>
+          <a class="nav-link active" href="/bookdetails">Services</a>
         </li>
         <li class="nav-item5">
-          <a class="nav-link active" href="/feedack">Feedback</a>
+          <a class="nav-link active" href="/feedback">Feedback</a>
         </li>
        
         </ul>

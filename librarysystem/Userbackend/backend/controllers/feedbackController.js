@@ -2,10 +2,10 @@ const asyncHandler = require('express-async-handler');
 const Feedback = require('../Models/Feedbacks');
 
 const sendFeedback = asyncHandler(async(req,res) =>{
-    const {reaction,message,yesno} = req.body;
+    const {reaction,message} = req.body;
 
     try {
-        if(!reaction || !message || !yesno){
+        if(!reaction || !message){
             res.status(400);
             throw new Error('Please enter all fields');
         }
@@ -14,7 +14,7 @@ const sendFeedback = asyncHandler(async(req,res) =>{
             const newFeedback = new Feedback({
                 reaction,
                 message,
-                yesno,
+                
             });
             await newFeedback.save();
             res.status(201).json({message:'Feedback sent successfully'});

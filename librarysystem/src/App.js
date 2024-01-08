@@ -16,6 +16,20 @@ import BookPage from './Pages/BookPage';
 import Bookreservation from './Pages/Bookreservation';
 import MakeReservation from './Pages/MakeReservation';
 import Stafflogin from './Pages/Stafflogin';
+import BookDetails from './Pages/BookDetails';
+import Bookform from './Pages/Bookform';
+import Staffprofile from './Pages/Staffprofile';
+import Staffdetails from './Pages/Staffdetails';
+import AdminListaffdetail from './Pages/AdminListaffdetail';
+import Staffform from './Pages/Staffform';
+import AdminDashboard from './Pages/AdminDashboard';
+import Studyroomres from './Pages/Studyroomres';
+import Bookborrowings from './Pages/Bookborrowings';
+import Librarianbookdetails from './Pages/Librarianbookdetails';
+import Detailsmember from './Pages/Detailsmember';
+import Feedback from './Pages/Feedback';
+
+
 
 
 
@@ -37,9 +51,18 @@ function App() {
           <Route path='/bookreservation' element={<Bookreservation/>}/> 
           <Route path='/makereservation' element={<MakeReservation/>}/> 
           <Route path='/stafflogin' element={<Stafflogin/>}/> 
-        
-         
-
+          <Route path='/bookdetails' element={<BookDetails/>}/>
+          <Route path='/bookform' element={<Bookform/>}/>
+          <Route path = '/staffprofile' element={<Staffprofile/>}/>
+          <Route path = '/staffdetails' element={<Staffdetails/>}/>
+          <Route path = '/adminListaffdetail' element={<AdminListaffdetail/>}/>
+          <Route path = '/staffform' element={<Staffform/>}/>
+          <Route path = '/admindashboard' element={<AdminDashboard/>}/>
+          <Route path = '/studyroomres' element={<Studyroomres/>}/>
+          <Route path = '/bookborrowing' element={<Bookborrowings/>}/>
+          <Route path = '/librarianbookdetails' element={<Librarianbookdetails/>}/>
+          <Route path = '/detailsmember' element={<Detailsmember/>}/>
+          <Route path = '/feedback' element={<Feedback/>}/>
         </Routes>
     </BrowserRouter>
   );
